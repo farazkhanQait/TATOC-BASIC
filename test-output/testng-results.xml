@@ -32,47 +32,47 @@
       <![CDATA[<---------------T.A.T.O.C Session Close-------------->]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="9518" started-at="2018-02-09T05:04:53Z" finished-at="2018-02-09T05:05:03Z">
+  <suite name="Default suite" duration-ms="9440" started-at="2018-02-09T06:01:48Z" finished-at="2018-02-09T06:01:58Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="9518" started-at="2018-02-09T05:04:53Z" finished-at="2018-02-09T05:05:03Z">
+    <test name="Default test" duration-ms="9440" started-at="2018-02-09T06:01:48Z" finished-at="2018-02-09T06:01:58Z">
       <class name="tatoc.Tatoc">
-        <test-method status="PASS" signature="launch()[pri:0, instance:tatoc.Tatoc@13805618]" name="launch" is-config="true" duration-ms="7378" started-at="2018-02-09T10:34:53Z" finished-at="2018-02-09T10:35:01Z">
+        <test-method status="PASS" signature="launch()[pri:0, instance:tatoc.Tatoc@13805618]" name="launch" is-config="true" duration-ms="8069" started-at="2018-02-09T11:31:48Z" finished-at="2018-02-09T11:31:57Z">
           <reporter-output>
             <line>
               <![CDATA[<---------------T.A.T.O.C Begins!!!-------------->]]>
             </line>
           </reporter-output>
         </test-method> <!-- launch -->
-        <test-method status="PASS" signature="HomePage()[pri:0, instance:tatoc.Tatoc@13805618]" name="HomePage" duration-ms="131" started-at="2018-02-09T10:35:01Z" finished-at="2018-02-09T10:35:01Z">
+        <test-method status="PASS" signature="HomePage()[pri:0, instance:tatoc.Tatoc@13805618]" name="HomePage" duration-ms="129" started-at="2018-02-09T11:31:57Z" finished-at="2018-02-09T11:31:57Z">
           <reporter-output>
             <line>
               <![CDATA[<---------------T.A.T.O.C Basic-------------->]]>
             </line>
           </reporter-output>
         </test-method> <!-- HomePage -->
-        <test-method status="PASS" signature="GreenBox()[pri:1, instance:tatoc.Tatoc@13805618]" name="GreenBox" duration-ms="120" started-at="2018-02-09T10:35:01Z" finished-at="2018-02-09T10:35:01Z">
+        <test-method status="PASS" signature="GreenBox()[pri:1, instance:tatoc.Tatoc@13805618]" name="GreenBox" duration-ms="114" started-at="2018-02-09T11:31:57Z" finished-at="2018-02-09T11:31:57Z">
           <reporter-output>
             <line>
               <![CDATA[<---------------T.A.T.O.C Step1-------------->]]>
             </line>
           </reporter-output>
         </test-method> <!-- GreenBox -->
-        <test-method status="PASS" signature="iframe()[pri:2, instance:tatoc.Tatoc@13805618]" name="iframe" duration-ms="1117" started-at="2018-02-09T10:35:01Z" finished-at="2018-02-09T10:35:02Z">
+        <test-method status="PASS" signature="iframe()[pri:2, instance:tatoc.Tatoc@13805618]" name="iframe" duration-ms="351" started-at="2018-02-09T11:31:57Z" finished-at="2018-02-09T11:31:57Z">
           <reporter-output>
             <line>
               <![CDATA[<---------------T.A.T.O.C Step2-------------->]]>
             </line>
           </reporter-output>
         </test-method> <!-- iframe -->
-        <test-method status="PASS" signature="drag_n_drop()[pri:3, instance:tatoc.Tatoc@13805618]" name="drag_n_drop" duration-ms="182" started-at="2018-02-09T10:35:02Z" finished-at="2018-02-09T10:35:02Z">
+        <test-method status="PASS" signature="drag_n_drop()[pri:3, instance:tatoc.Tatoc@13805618]" name="drag_n_drop" duration-ms="175" started-at="2018-02-09T11:31:57Z" finished-at="2018-02-09T11:31:57Z">
           <reporter-output>
             <line>
               <![CDATA[<---------------T.A.T.O.C Step3-------------->]]>
             </line>
           </reporter-output>
         </test-method> <!-- drag_n_drop -->
-        <test-method status="PASS" signature="window_handler()[pri:4, instance:tatoc.Tatoc@13805618]" name="window_handler" duration-ms="291" started-at="2018-02-09T10:35:02Z" finished-at="2018-02-09T10:35:03Z">
+        <test-method status="PASS" signature="window_handler()[pri:4, instance:tatoc.Tatoc@13805618]" name="window_handler" duration-ms="324" started-at="2018-02-09T11:31:57Z" finished-at="2018-02-09T11:31:58Z">
           <reporter-output>
             <line>
               <![CDATA[<---------------T.A.T.O.C Step4-------------->]]>
@@ -82,7 +82,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- window_handler -->
-        <test-method status="PASS" signature="cookie()[pri:5, instance:tatoc.Tatoc@13805618]" name="cookie" duration-ms="165" started-at="2018-02-09T10:35:03Z" finished-at="2018-02-09T10:35:03Z">
+        <test-method status="PASS" signature="cookie()[pri:5, instance:tatoc.Tatoc@13805618]" name="cookie" duration-ms="141" started-at="2018-02-09T11:31:58Z" finished-at="2018-02-09T11:31:58Z">
           <reporter-output>
             <line>
               <![CDATA[<---------------T.A.T.O.C Step5-------------->]]>
@@ -92,7 +92,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- cookie -->
-        <test-method status="PASS" signature="session_close()[pri:0, instance:tatoc.Tatoc@13805618]" name="session_close" is-config="true" duration-ms="112" started-at="2018-02-09T10:35:03Z" finished-at="2018-02-09T10:35:03Z">
+        <test-method status="PASS" signature="session_close()[pri:0, instance:tatoc.Tatoc@13805618]" name="session_close" is-config="true" duration-ms="113" started-at="2018-02-09T11:31:58Z" finished-at="2018-02-09T11:31:58Z">
           <reporter-output>
             <line>
               <![CDATA[<---------------T.A.T.O.C Session Close-------------->]]>
