@@ -24,13 +24,12 @@ public class Tatoc {
 	private static WebDriver driver;
 
 	static spec_reader y1 = new spec_reader();
-	config_reader y2 = new config_reader();
 	String title;
 
 	@BeforeTest
 	public void launch() throws IOException, InterruptedException {
 		Reporter.log("<---------------T.A.T.O.C Begins!!!-------------->");
-		String browser = y2.getPropValues();
+		String browser = config_reader.getPropValues();
 		if (browser.equals("chrome")) {
 
 			System.setProperty("webdriver.chrome.driver", "/home/farazkhan/Pictures/chromedriver");
